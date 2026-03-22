@@ -1,0 +1,28 @@
+# Document Parsing
+pymupdf
+pdfplumber
+python-docx
+python-pptx
+
+# Vector Index & Retrieval
+faiss-cpu
+rank-bm25
+
+# Embeddings & LLM (local via Ollama)
+ollama
+
+# Storage
+sqlalchemy
+
+# API & UI
+fastapi
+uvicorn
+streamlit
+python-multipart
+
+# Utilities
+numpy
+pandas
+Pillow
+tqdm
+python-dotenv
